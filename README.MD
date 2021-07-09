@@ -140,7 +140,7 @@ client.together.generateTogetherCode(message.member.voice.channelID, 'fishing').
 
 **This package is under MIT license.**
 
-*Note: This package is not affiliated with Discord or YouTube.*
+*Note: This package is not affiliated with Discord, YouTube or End Game Interactive.*
 
 If you have any problems, you can contact the developers by joining the Discord server.
 **Discord server:** [Server Link](https://discord.gg/HrHFmAceRM)
