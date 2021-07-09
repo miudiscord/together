@@ -1,0 +1,40 @@
+{
+  "name": "@miudiscord/together",
+  "version": "1.0.1",
+  "description": "Play games or watch YouTube videos together on Discord!",
+  "main": "index.js",
+  "scripts": {
+    "test:js": "node test/javascript/JavaScriptBot.js",
+    "test:ts": "cd test/typescript && tsc && node TypeScriptBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miudiscord/together.git"
+  },
+  "keywords": [
+    "discord activities",
+    "youtube",
+    "discord.js",
+    "together",
+    "discord",
+    "youtube",
+    "videos",
+    "poker",
+    "games"
+  ],
+  "authors": [
+    "Xanll",
+    "itsayushch"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miudiscord/together.git/issues"
+  },
+  "homepage": "https://github.com/miudiscord/together.git#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
