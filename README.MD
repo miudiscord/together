@@ -3,8 +3,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
-![DL](https://img.shields.io/npm/dt/@miudiscord/together?style=for-the-badge)
-
+[![npm](https://img.shields.io/npm/dt/@miudiscord/together?style=for-the-badge)](https://npmjs.org/@miudiscord/together)
 </div>
 
 # 🔩 Installation
@@ -27,8 +26,8 @@ $ npm install discord.js
 <br/>
 
 # 💻 Code example
-- [Javascript Example](https://github.com/miudiscord/together/blob/main/examples/javascript/JavascriptBot.js)
-- [Typescript Example](https://github.com/miudiscord/together/blob/main/examples/javascript/TypescriptBot.ts)
+- [Javascript Example](https://github.com/miudiscord/together/blob/stable/examples/javascript/JavascriptBot.js)
+- [Typescript Example](https://github.com/miudiscord/together/blob/stable/examples/javascript/TypescriptBot.ts)
 
 # 🔧 Options
 - Youtube
