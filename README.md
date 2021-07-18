@@ -1,4 +1,7 @@
 <div align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <h1><strong>Play Together</strong></h1>
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
@@ -27,7 +30,7 @@ $ npm install discord.js
 
 # 💻 Code example
 - [Javascript Example](https://github.com/miudiscord/together/blob/stable/examples/javascript/JavascriptBot.js)
-- [Typescript Example](https://github.com/miudiscord/together/blob/stable/examples/javascript/TypescriptBot.ts)
+- [Typescript Example](https://github.com/miudiscord/together/blob/stable/examples/typescript/TypescriptBot.ts)
 
 # 🔧 Options
 - Youtube
@@ -59,7 +62,10 @@ client.together.generateTogetherCode(message.member.voice.channelID, 'fishing').
 ```
 
 # 🌌 Example of bots made with Play Together
-**Soon™️ (If you want your bot to be listed, Contact Xanll after joining the Discord server.)**
+
+#### [EZIO 2.0#7598 | 793127803041218590](https://top.gg/bot/793127803041218590) 
+
+> ***If you want your bot to be listed, Contact Xanll after joining the Discord server. Open sourced bots are greatly appreciated.***
 
 # 📷 Images/Preview
 
@@ -149,4 +155,3 @@ If you have any problems, you can contact the developers by joining the Discord 
 <hr>
 
 ## **Made with ❤ by [Xanll#7264](https://xanll.vercel.app) & [Ayush#5234](https://ayushch.tech)**
-

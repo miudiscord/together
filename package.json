@@ -1,6 +1,6 @@
 {
   "name": "@miudiscord/together",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Play games or watch YouTube videos together on Discord with your friends while being in a call!",
   "main": "index.js",
   "scripts": {
