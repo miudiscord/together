@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "itsayushch",
+      "name": "Ayush Chowdhury",
+      "avatar_url": "https://avatars.githubusercontent.com/u/57065963?v=4",
+      "profile": "https://www.ayushch.tech",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "together",
+  "projectOwner": "miudiscord",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
