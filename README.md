@@ -163,7 +163,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://www.ayushch.tech"><img src="https://avatars.githubusercontent.com/u/57065963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Chowdhury</b></sub></a><br /><a href="https://github.com/miudiscord/together/commits?author=itsayushch" title="Code">💻</a> <a href="https://github.com/miudiscord/together/commits?author=itsayushch" title="Tests">⚠️</a> <a href="#example-itsayushch" title="Examples">💡</a></td>
+    <td align="center"><a href="https://www.ayushch.tech"><img src="https://avatars.githubusercontent.com/u/57065963?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ayush Chowdhury</b></sub></a><br /><a href="https://github.com/miudiscord/together/commits?author=itsayushch" title="Code">💻</a> <a href="https://github.com/miudiscord/together/commits?author=itsayushch" title="Tests">⚠️</a> <a href="#example-itsayushch" title="Examples">💡</a> <a href="#maintenance-itsayushch" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
